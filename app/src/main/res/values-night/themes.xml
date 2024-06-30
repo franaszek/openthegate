@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+   <style name="Theme.OpenTheGate" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="AppTheme.SettingsActivity" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize theme attributes -->
+        <item name="android:windowBackground">@android:color/background_light</item>
+    </style>
+</resources>

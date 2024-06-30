@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="phone_number"
+        android:title="@string/pref_phone_number"
+        android:summary="@string/pref_phone_number_description"
+        android:inputType="phone" />
+
+    <EditTextPreference
+        android:key="sms_content"
+        android:title="@string/pref_sms_content"
+        android:summary="@string/pref_sms_content_description"
+        android:defaultValue=";ORC2=1;"/>
+</PreferenceScreen>
