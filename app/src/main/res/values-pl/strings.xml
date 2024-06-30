@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messenger_service_description">Otwórz Bramę</string>
+    <string name="messenger_service_label">Brama</string>
+    <string name="main_activity_gate_opening_toast">Brama otwiera się…</string>
+    <string name="main_activity_gate_opening_error_toast">Błąd wysyłania SMS</string>
+    <string name="main_activity_no_permission_toast">Brak wymaganych uprawnień</string>
+    <string name="shortcut_settings_short_label">Ustawienia</string>
+    <string name="shortcut_settings_long_label">Ustawienia</string>
+    <string name="shortcut_settings_disabled_message">Ustawienia nie dostępne</string>
+
+
+    <string name="pref_phone_number">Numer telefonu</string>
+    <string name="pref_phone_number_description">Wprowadź numer telefonu</string>
+    <string name="pref_sms_content">treść SMS</string>
+    <string name="pref_sms_content_description">wprowadź treść sms</string>
+</resources>

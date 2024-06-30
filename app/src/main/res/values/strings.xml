@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messenger_service_description">Open The Gate</string>
+    <string name="messenger_service_label">Gate</string>
+    <string name="main_activity_gate_opening_toast">Gate is opening…</string>
+    <string name="main_activity_gate_opening_error_toast">SMS sending error</string>
+    <string name="main_activity_no_permission_toast">No privilages</string>
+    <string name="shortcut_settings_short_label">Settings</string>
+    <string name="shortcut_settings_long_label">Open Settings</string>
+    <string name="shortcut_settings_disabled_message">Settings not available</string>
+
+
+    <string name="pref_phone_number">Phone Number</string>
+    <string name="pref_phone_number_description">Enter the phone number to send SMS</string>
+    <string name="pref_sms_content">SMS content</string>
+    <string name="pref_sms_content_description">Enter the content of the SMS</string>
+
+
+</resources>
